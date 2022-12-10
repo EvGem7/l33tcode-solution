@@ -1,7 +1,7 @@
 use std::cmp::min;
 use std::collections::HashSet;
 
-struct Solution;
+pub struct Solution;
 
 impl Solution {
 
